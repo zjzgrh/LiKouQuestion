@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7895a86-7ff3-4591-a22d-fd6a6e6b39a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X73PI8V60qDszwURohK1W3AerV" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.question1160">
+    <configuration name="mianshi57_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.mianshi.mianshi57_2" />
+      <module name="LiKouQuestion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.mianshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question1071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.question.question1071" />
+      <module name="LiKouQuestion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question1160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.question.question1160" />
+      <module name="LiKouQuestion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.question.question17" />
+      <module name="LiKouQuestion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question994" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.question.question994" />
+      <module name="LiKouQuestion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.question17" />
+      <item itemvalue="Application.question994" />
+      <item itemvalue="Application.mianshi57_2" />
+      <item itemvalue="Application.question1071" />
+      <item itemvalue="Application.question1160" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.question1160" />
+        <item itemvalue="Application.question1071" />
+        <item itemvalue="Application.question17" />
+        <item itemvalue="Application.mianshi57_2" />
+        <item itemvalue="Application.question994" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7895a86-7ff3-4591-a22d-fd6a6e6b39a5" name="Default Changelist" comment="" />
+      <created>1580383279648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580383279648</updated>
+      <workItem from="1580383282639" duration="8632000" />
+      <workItem from="1580530037859" duration="84000" />
+      <workItem from="1581747842948" duration="3922000" />
+      <workItem from="1582080420010" duration="14786000" />
+      <workItem from="1582175036228" duration="1456000" />
+      <workItem from="1582185499155" duration="31000" />
+      <workItem from="1582254488662" duration="4256000" />
+      <workItem from="1583242114744" duration="5261000" />
+      <workItem from="1583409850914" duration="9726000" />
+      <workItem from="1583569349819" duration="1781000" />
+      <workItem from="1583680774175" duration="1487000" />
+      <workItem from="1583826977953" duration="9288000" />
+      <workItem from="1583981205947" duration="4030000" />
+      <workItem from="1584447165503" duration="1910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1583242311989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583242311989" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1582185526806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582185526806" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1584449077899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580443775396" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584449077899" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1584449077899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580443775395" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584449077899" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1584449077898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580443775395" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584449077898" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1584449077899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580443775396" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584449077899" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584449077899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580443561318" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584449077899" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584449077899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580443561317" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584449077899" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584449077899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580443561317" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584449077899" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584449077899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580443561317" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584449077899" />
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor" timestamp="1580530092308">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580530092308" />
+    <state x="404" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1583826995161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582185498695" />
+    <state x="404" y="205" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583826995161" />
+    <state x="28" y="49" key="new project wizard" timestamp="1581749859874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="49" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1581749859874" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580441145084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580441145084" />
+  </component>
+</project>
