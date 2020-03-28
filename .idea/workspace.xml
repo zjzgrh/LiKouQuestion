@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7895a86-7ff3-4591-a22d-fd6a6e6b39a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/question/question999.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/question/question820.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/question/question914.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.question892">
+  <component name="RunManager" selected="Application.question820">
     <configuration name="mianshi17_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.mianshi.mianshi17_16" />
       <module name="LiKouQuestion" />
@@ -49,21 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question1071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.question.question1071" />
-      <module name="LiKouQuestion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.question.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="question1160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.question.question1160" />
+    <configuration name="question820" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.question.question820" />
       <module name="LiKouQuestion" />
       <extension name="coverage">
         <pattern>
@@ -77,6 +65,19 @@
     </configuration>
     <configuration name="question892" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.question.question892" />
+      <module name="LiKouQuestion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question914" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.question.question914" />
       <module name="LiKouQuestion" />
       <extension name="coverage">
         <pattern>
@@ -102,19 +103,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.question1071" />
-      <item itemvalue="Application.question1160" />
       <item itemvalue="Application.question945" />
       <item itemvalue="Application.mianshi17_16" />
       <item itemvalue="Application.question892" />
+      <item itemvalue="Application.question914" />
+      <item itemvalue="Application.question820" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.question820" />
+        <item itemvalue="Application.question914" />
         <item itemvalue="Application.question892" />
         <item itemvalue="Application.mianshi17_16" />
         <item itemvalue="Application.question945" />
-        <item itemvalue="Application.question1160" />
-        <item itemvalue="Application.question1071" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,9 @@
       <workItem from="1584606662749" duration="1376000" />
       <workItem from="1584864697014" duration="10034000" />
       <workItem from="1585128632214" duration="3024000" />
-      <workItem from="1585189086699" duration="1887000" />
+      <workItem from="1585189086699" duration="1989000" />
+      <workItem from="1585281237273" duration="4563000" />
+      <workItem from="1585357213496" duration="1732000" />
     </task>
     <servers />
   </component>
@@ -160,31 +163,35 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583242311989" />
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585282673736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585282673736" />
     <state x="505" y="120" key="FileChooserDialogImpl" timestamp="1584864702759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582185526806" />
     <state x="505" y="120" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584864702759" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585132163163">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585364338974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580443775396" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585132163163" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585132163163">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585364338974" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585364338974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580443775395" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585132163163" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585132163163">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585364338974" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585364338974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580443775395" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585132163163" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585132163163">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585364338974" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585364338974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580443775396" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585132163163" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585364338974" />
     <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1585132163163">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -209,6 +216,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="366" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580530092308" />
+    <state x="490" y="154" width="546" height="524" key="StructurePopup" timestamp="1585283056035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="546" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1585283056035" />
     <state x="404" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1584864696265">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
